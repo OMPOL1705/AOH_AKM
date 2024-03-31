@@ -10,7 +10,7 @@ Empower Speak is a software where a Differently Abled person can avail various f
 
 # Introduction
 
-Hola Everyone, This is team AKM which consists of 4 people of each and every stack. We have Dishant and Manan here for React Native, Mihir for Frontend and Yash for AI/ML and Backend .
+Hola Everyone, This is team AKM which consists of 4 people of each and every stack. We have Alok Mishra, Om Pol, Manish Mishra and Krishna Mishra.
 
 # Case Study: Empower Speak
 
